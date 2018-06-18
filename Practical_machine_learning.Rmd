@@ -6,7 +6,7 @@ setwd("D:\\Data Science ToolBox\\Practise\\ML for Hacker\\Data set")
 
 ```
 
-#Load library
+# Load library
 
 ```{r}
 
